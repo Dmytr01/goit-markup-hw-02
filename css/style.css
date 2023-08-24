@@ -149,7 +149,7 @@
     color: var(--ocean);
   }
   .input-list:focus {
-    color: #var(--ocean);
+    color: var(--ocean);
   }
   .list {
     list-style: none;

@@ -1,11 +1,4 @@
 :root {
-    /* --brand-color: #404bf4;
-    --primary-white-color: #ffffff;
-    --body-color: #434455;
-    --clasic-background-color: #f4f4fd;
-    --footer-color: #2e2f42;
-    --button-color: #4d5ae5; */
-
     --state: #434455;
     --navy-blue: #2e2f42;
     --cornflower: #E7E9FC;
@@ -26,12 +19,6 @@
   }
   .logo-name {
     color: var(--navy-blue);
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
   }
   .logo-link {
     font-family: "Raleway", sans-serif;
@@ -59,7 +46,6 @@
     color: var(--navy-blue);
   }
   .company-activity {
-    background-color:  var(--white);
     color: var(--navy-blue);
     font-size: 36px;
     line-height: 1.11;
